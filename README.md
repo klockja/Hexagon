@@ -1,2 +1,2 @@
 # Hexagon
- This is game project I made as a challenge.
+ This is a game project I made as a challenge.
